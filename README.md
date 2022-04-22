@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **TwilightForest5/TwilightForest5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=twilightforest5)](https://github.com/twilightforest5/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=twilightforest5)](https://github.com/anuraghazra/github-readme-stats.git)
